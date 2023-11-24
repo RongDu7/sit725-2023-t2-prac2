@@ -1,0 +1,23 @@
+{
+  "name": "sit725-2023-t2-prac2",
+  "version": "1.0.0",
+  "description": "SIT725 T2 PRAC2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RongDu7/sit725-2023-t2-prac2.git"
+  },
+  "author": "Rong Du",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RongDu7/sit725-2023-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/RongDu7/sit725-2023-t2-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
